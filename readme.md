@@ -12,6 +12,9 @@ The project runs on [localhost:8080](http://localhost:8080) by default.
 
     pip -m venv env
 
+### Activate Envorinment
+    env\Scripts\activate
+
 ### Install Requirements
 
     pip install -r requirements.txt
@@ -27,6 +30,10 @@ The project runs on [localhost:8080](http://localhost:8080) by default.
     DATABASE_PASSWORD='your_pg_pw'
     DATABASE_HOST='your_pg_host'
     DATABASE_PORT='your_pg_port'
+
+### Make migrations
+    python manage.py makemigrations
+    python manage.py migrate
 
 ### Run the Server
 
