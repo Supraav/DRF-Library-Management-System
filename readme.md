@@ -40,5 +40,5 @@ The project runs on [localhost:8080](http://localhost:8080) by default.
     python manage.py runserver
 
 ### the documentation is hosted on SwaggerUI
+[http://127.0.0.1:8000/swagger/](http://127.0.0.1:8000/swagger/)
 
-[localhost:8080/swagger](http://localhost:8080/swagger)
