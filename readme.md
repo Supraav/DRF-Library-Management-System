@@ -34,4 +34,4 @@ The project runs on [localhost:8080](http://localhost:8080) by default.
 
 ### the documentation is hosted on SwaggerUI
 
-    [localhost:8080/swagger](http://localhost:8080/swagger)
+[localhost:8080/swagger](http://localhost:8080/swagger)
